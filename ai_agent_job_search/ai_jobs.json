@@ -1,0 +1,555 @@
+[
+  {
+    "title": "AI工程师（实习生）",
+    "company": "华为",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "神经网络",
+      "机器学习",
+      "计算机视觉",
+      "无人驾驶",
+      "路径规划",
+      "智能决策",
+      "推荐系统",
+      "大模型",
+      "生成式AI"
+    ],
+    "requirements": "计算机或人工智能相关专业本科以上学历；熟练运用至少一门编程语言（C++ /Java /Python/Rust等）；熟悉深度神经网络、机器学习算法和知识图谱等的至少一种；熟悉Tensorflow/scikit-learn/xgboost/Caffe/MindSpore/pytorch等主流深度学习框架的使用",
+    "source": "牛客网",
+    "job_url": "https://www.nowcoder.com/jobs/detail/437405?urlSource=sitemap"
+  },
+  {
+    "title": "AI应用工程师实习生",
+    "company": "国家大学生就业服务平台",
+    "location": "",
+    "salary": "4.0-7.0K/月",
+    "tech_tags": [
+      "LangChain",
+      "LangGraph",
+      "DIFY",
+      "AIGC",
+      "LLM"
+    ],
+    "requirements": "本科及以上学历，计算机、人工智能等相关专业；熟练掌握Python，熟练掌握数据结构与算法相关知识；具有创新思维和数学建模能力，注重问题和算法的细节；能清晰地向不同背景的人讲述复杂的技术概念；能快速掌握新知识和工具使用",
+    "source": "国家大学生就业服务平台",
+    "job_url": "https://www.ncss.cn/student/jobs/4gsEmZy3eDMHq9d2c6WK9u/detail.html"
+  },
+  {
+    "title": "AI实习生",
+    "company": "BOSS直聘",
+    "location": "武汉江夏区光谷",
+    "salary": "140-200元/天",
+    "tech_tags": [],
+    "requirements": "",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/85038840a17aa9471nB-0t-6/"
+  },
+  {
+    "title": "机器学习实习生",
+    "company": "鸿濛",
+    "location": "",
+    "salary": "300-500元/天",
+    "tech_tags": [
+      "ML",
+      "PCA",
+      "SVM",
+      "MLP",
+      "CNN"
+    ],
+    "requirements": "有PCA，SVM，MLP，CNN机器学习经验者优先",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/568a1f4c3a682a410XJ73d65/"
+  },
+  {
+    "title": "NLP实习生",
+    "company": "Siemens",
+    "location": "北京市",
+    "salary": "面议",
+    "tech_tags": [
+      "NLP"
+    ],
+    "requirements": "前述算法相匹配",
+    "source": "Indeed 中国",
+    "job_url": "https://cn.indeed.com/q-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E4%B9%A0%E7%94%9F-%E8%81%8C%E4%BD%8D.html"
+  },
+  {
+    "title": "AI机器学习算法实习生（合规方向）",
+    "company": "字节跳动",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "LLM",
+      "LVM"
+    ],
+    "requirements": "具备扎实的数据结构与算法基础，熟练掌握LLM/LVM/多模",
+    "source": "字节跳动招聘官网",
+    "job_url": "https://jobs.bytedance.com/campus/m/position/detail/7605514444295293189?recomId=60a2a618-165e-11f1-a403-0c42a1a84b32&sourceJobId=7529745839531673874&utm_device=pc&utm_keyword=pc202303098&utm_source=SEMbaidu"
+  },
+  {
+    "title": "深度学习实习生",
+    "company": "BOSS直聘",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "深度学习"
+    ],
+    "requirements": "参与深度学习项目的研发工作，确保项目按时完成。与团队合作，对模型进行测试和迭代，提升模型性能。负责深度学习模型的构建、训练及优化",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/4668f752aa75160003J92Nu_/"
+  },
+  {
+    "title": "深度学习算法实习生",
+    "company": "BOSS直聘",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "深度学习",
+      "图像识别",
+      "遥感影像分类"
+    ],
+    "requirements": "在资深工程师指导下，学习图像识别、遥感影像分类等深度学习算法原理，协助收集相关技术资料与研究成果；参与简单的模型设计讨论，进行基础深度学习算法",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/28e7fe7e0b82001e0XJ83NW0/"
+  },
+  {
+    "title": "深度学习算法实习生（视觉方向）",
+    "company": "牛客网",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "深度学习",
+      "图像视频算法"
+    ],
+    "requirements": "负责基于深度学习的图像视频算法的研发，并将其应用于实际的场景，提升终端用户体验",
+    "source": "牛客网",
+    "job_url": "https://mnowpick.nowcoder.com/m/detail/index?jobId=23689"
+  },
+  {
+    "title": "人工智能实习生",
+    "company": "辽宁柒隆智能科技",
+    "location": "",
+    "salary": "90-110元/天",
+    "tech_tags": [],
+    "requirements": "",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/1cb4eb7f1eb3a0950XV_2Ni4/"
+  },
+  {
+    "title": "AI实习生",
+    "company": "某专业技术服务公司",
+    "location": "北京",
+    "salary": "2-4k",
+    "tech_tags": [
+      "大模型"
+    ],
+    "requirements": "熟悉open claw",
+    "source": "猎聘",
+    "job_url": "https://www.liepin.com/zpaisxsk50i7/"
+  },
+  {
+    "title": "AI Algorithm Intern (AI算法实习生) (Start ASAP) - Prosple China",
+    "company": "Prosple China",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "LLM",
+      "RAG",
+      "Agent"
+    ],
+    "requirements": "熟悉大模型的基本原理和相关技术，具有良好的编程习惯和算法基础，对大模型技术有浓厚兴趣，具备良好的沟通能力和团队合作能力",
+    "source": "https://cn.prosple.com/graduate-employers/china-international-capital-corporation-cicc/jobs-internships/ai-algorithm-intern-aisuanfashixisheng",
+    "job_url": "https://cn.prosple.com/graduate-employers/china-international-capital-corporation-cicc/jobs-internships/ai-algorithm-intern-aisuanfashixisheng"
+  },
+  {
+    "title": "AI算法实习生招聘信息",
+    "company": "BOSS直聘",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [],
+    "requirements": "",
+    "source": "https://www.zhipin.com/zhaopin/42955e96bb7b7f6c1HJ939y8/",
+    "job_url": "https://www.zhipin.com/zhaopin/42955e96bb7b7f6c1HJ939y8/"
+  },
+  {
+    "title": "Intern Program - 实习生项目 - Jina AI",
+    "company": "Jina AI",
+    "location": "柏林, 北京, 深圳",
+    "salary": "面议",
+    "tech_tags": [
+      "LLM",
+      "RAG",
+      "CV"
+    ],
+    "requirements": "本科、硕士、博士，对研究、工程等领域感兴趣",
+    "source": "https://jina.ai/zh-CN/internship/",
+    "job_url": "https://jina.ai/zh-CN/internship/"
+  },
+  {
+    "title": "AI工程师实习生",
+    "company": "上海华为技术有限公司",
+    "location": "南京雨花台区安德门",
+    "salary": "200-250元/天",
+    "tech_tags": [
+      "NLP",
+      "机器学习",
+      "多模态",
+      "CV"
+    ],
+    "requirements": "本科. 暑期实习时间：6-9月AI工程师-AI软件开发/自然语言处理&语音语义",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/63bebdf1b4b57f690XR63ty5/"
+  },
+  {
+    "title": "机器人-AI算法工程师（机器视觉-实习）",
+    "company": "海康威视",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "CV",
+      "机器学习"
+    ],
+    "requirements": "硕士及以上学历，计算机视觉，图像处理，机器学习以及模式识别等相关专业； 2.熟悉cnn,rnn以及常用的机器学习算法,对模型的参数调优有丰富",
+    "source": "海康威视招聘官网",
+    "job_url": "https://talent.hikvision.com/society/position?postId=833F537DB31417FA9A2075E97EFDE482"
+  },
+  {
+    "title": "自然语言处理实习生",
+    "company": "京东集团",
+    "location": "北京大兴区亦庄",
+    "salary": "400-500元/天",
+    "tech_tags": [
+      "自然语言处理",
+      "大模型"
+    ],
+    "requirements": "本科",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/8df8f3aba2c783450X1z394~/"
+  },
+  {
+    "title": "AI工程师-自然语言处理",
+    "company": "华为",
+    "location": "东莞",
+    "salary": "280-330元/天",
+    "tech_tags": [
+      "自然语言处理"
+    ],
+    "requirements": "本科",
+    "source": "牛客网",
+    "job_url": "https://www.nowcoder.com/jobs/detail/437152"
+  },
+  {
+    "title": "Algorithm Engineer / Natural Language Processing - Internship Program",
+    "company": "Alibaba Cloud China",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "自然语言处理",
+      "深度学习",
+      "智能对话技术"
+    ],
+    "requirements": "熟悉深度学习原理和机器学习算法，有大数据处理实践经验",
+    "source": "Prosple China",
+    "job_url": "https://cn.prosple.com/graduate-employers/alibaba-cloud-china/jobs-internships/algorithm-engineer-natural-language-processing-internship-program-suanfagongchengshiziranyuyanchuli-shixijihua"
+  },
+  {
+    "title": "自然语言处理nlp实习生",
+    "company": "",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "自然语言处理",
+      "AIGC",
+      "多模态",
+      "预训练模型",
+      "OCR",
+      "AIOPS"
+    ],
+    "requirements": "",
+    "source": "智联招聘",
+    "job_url": "https://m.zhaopin.com/zhaopin/a1f3fbfc76a244ad9a4728b89a3cc911/"
+  },
+  {
+    "title": "AI工程师计算机视觉",
+    "company": "华为",
+    "location": "广州天河区车陂",
+    "salary": "200-250元/天",
+    "tech_tags": [
+      "CV"
+    ],
+    "requirements": "本科，承担计算机视觉目标检测/实例分割/图像识别等算法的研发",
+    "source": "BOSS直聘",
+    "job_url": "https://www.zhipin.com/zhaopin/a5dce2ec6a089f2d1nF639q1GQ~~/"
+  },
+  {
+    "title": "图像图形算法实习生",
+    "company": "腾讯AI Lab",
+    "location": "深圳",
+    "salary": "面议",
+    "tech_tags": [
+      "CV",
+      "ML"
+    ],
+    "requirements": "计算机视觉或图形学相关方向的在读硕士或博士，熟悉常用计算机视觉/图形学算法，对深度学习框架和理论比较熟悉",
+    "source": "腾讯AI Lab",
+    "job_url": "https://ailab.tencent.com/ailab/zh/recruit/"
+  },
+  {
+    "title": "AI视觉感知算法工程师实习生",
+    "company": "优必选科技",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "CV",
+      "ML"
+    ],
+    "requirements": "硕士，感知算法工程师（视觉-运动预测/多传感器/视觉BEV模型开发/调优",
+    "source": "猎聘",
+    "job_url": "https://www.liepin.com/zpaisjgzsfgcssxspkqo4/"
+  },
+  {
+    "title": "人工智能实习生– 自然语言处理与计算机视觉",
+    "company": "MindTech AI",
+    "location": "远程工作",
+    "salary": "面议",
+    "tech_tags": [
+      "NLP",
+      "CV"
+    ],
+    "requirements": "设计、实施和优化机器学习模型，增强文本和视觉数据的理解",
+    "source": "https://yuanchengdao.com",
+    "job_url": "https://yuanchengdao.com/job/remote-artificial-intelligence-intern-nlp-and-computer-vision-mindtech-ai-4935"
+  },
+  {
+    "title": "AI-Lab计算机视觉算法实习生",
+    "company": "字节跳动",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "NLP",
+      "CV"
+    ],
+    "requirements": "掌握自然语言处理理论和技术，对NLP最新进展比较了解；责任心强，积极主动，有良好的沟通能力和团队合作能力；优秀的分析问题和解决问题的能力；熟悉linux平台",
+    "source": "https://www.nowcoder.com",
+    "job_url": "https://www.nowcoder.com/job/32896"
+  },
+  {
+    "title": "自然语言处理算法工程师（在校生）（校园招聘）",
+    "company": "深思考",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "NLP"
+    ],
+    "requirements": "硕士及以上学历，计算机专业，自然语言处理方向；熟悉自然语言处理相关",
+    "source": "http://ideepwise.ai",
+    "job_url": "http://ideepwise.ai/zhaoxiannashi/xiaoyuanzhaopin/2017/0926/34/index.html"
+  },
+  {
+    "title": "AI Lab实习生— 自然语言处理NLP",
+    "company": "字节跳动",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "NLP",
+      "CV"
+    ],
+    "requirements": "专注于人工智能领域的前沿技术研究，涵盖了计算机视觉、语音&音频处理、机器",
+    "source": "https://wap.shixiseng.com",
+    "job_url": "https://wap.shixiseng.com/intern/inn_0lze6yczb2nc?act=jiuzhang"
+  },
+  {
+    "title": "AI/深度学习实习生",
+    "company": "",
+    "location": "上海-张江",
+    "salary": "6-7k",
+    "tech_tags": [
+      "机器学习",
+      "深度学习"
+    ],
+    "requirements": "1年以下 硕士",
+    "source": "猎聘",
+    "job_url": "https://www.liepin.com/s/aisdxxsxogph704/"
+  },
+  {
+    "title": "机器学习大模型训练实习生",
+    "company": "AI for Science中心",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "机器学习",
+      "大模型",
+      "PyTorch",
+      "Transformer",
+      "GNN"
+    ],
+    "requirements": "计算机科学、机器学习、应用数学或相关领域本科及以上学历；熟练掌握PyTorch等深度学习框架，对Transformer等主流模型有深入理解；熟悉GNN",
+    "source": "https://www.shlab.org.cn",
+    "job_url": "https://www.shlab.org.cn/joinus/detail/7566549312650709257?mode=campus&keyword=&jobFunction=&jobType=&location=&subject="
+  },
+  {
+    "title": "AI视觉大语言模型实习生（远程）",
+    "company": "牛客网",
+    "location": "远程",
+    "salary": "面议",
+    "tech_tags": [
+      "VLM",
+      "VLA"
+    ],
+    "requirements": "熟悉 Python 与深度学习框架",
+    "source": "牛客网",
+    "job_url": "https://www.nowcoder.com/jobs/detail/382329"
+  },
+  {
+    "title": "大模型实习生",
+    "company": "幻方AI",
+    "location": "北京市, 中国",
+    "salary": "面议",
+    "tech_tags": [
+      "自然语言处理",
+      "计算机视觉",
+      "模型压缩",
+      "推理优化"
+    ],
+    "requirements": "有顶级AI 会议论文发表经验或开源项目贡献经验者优先",
+    "source": "领英",
+    "job_url": "https://cn.linkedin.com/jobs/view/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9E%E4%B9%A0%E7%94%9F-at-%E5%B9%BB%E6%96%B9ai-4027872238"
+  },
+  {
+    "title": "AI大模型算法实习生",
+    "company": "图湃（北京）医疗科技有限公司",
+    "location": "北京",
+    "salary": "面议",
+    "tech_tags": [
+      "计算机视觉",
+      "自然语言处理",
+      "多模态学习",
+      "文本大模型"
+    ],
+    "requirements": "具备扎实的计算机视觉、自然语言处理、多模态学习或文本大模型理论基础",
+    "source": "BeBee",
+    "job_url": "https://bebee.com/cn/jobs/ai--techmap_cn_4396048549"
+  },
+  {
+    "title": "大模型算法实习生",
+    "company": "上海人工智能实验室",
+    "location": "上海",
+    "salary": "面议",
+    "tech_tags": [
+      "自然语言处理",
+      "计算机视觉",
+      "多模态",
+      "机器学习"
+    ],
+    "requirements": "具备扎实的数学功底和工程能力",
+    "source": "上海人工智能实验室",
+    "job_url": "https://www.shlab.org.cn/joinus/detail/7485654837901199653?mode=campus"
+  },
+  {
+    "title": "自然语言处理算法工程师（大模型方向）实习生",
+    "company": "超级简历",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "自然语言处理",
+      "大模型"
+    ],
+    "requirements": "负责基座模型预训练、指令微调训练和强化学习，负责模型结构和训练策略的优化，提升训练效率和推理效率",
+    "source": "超级简历",
+    "job_url": "https://www.wondercv.com/jobs/0ITWHQE.html"
+  },
+  {
+    "title": "大模型强化学习算法实习生",
+    "company": "上海人工智能实验室",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "大模型",
+      "自然语言处理",
+      "视觉理解",
+      "多模态"
+    ],
+    "requirements": "开展大语言模型和多模态大模型复杂推理能力和可信性研究，参与多模态大模型后训练阶段的强化学习算法研发迭代",
+    "source": "上海人工智能实验室",
+    "job_url": "https://www.shlab.org.cn/joinus/detail/7474835615747705126?mode=campus"
+  },
+  {
+    "title": "实习生",
+    "company": "国家大学生就业服务平台",
+    "location": "",
+    "salary": "3.0-4.0K/月",
+    "tech_tags": [
+      "情感计算",
+      "多模态大模型",
+      "模型部署与工程化"
+    ],
+    "requirements": "计算机科学、人工智能、电子工程等相关专业，硕士二年级及以上在读",
+    "source": "国家大学生就业服务平台",
+    "job_url": "https://www.ncss.cn/student/jobs/ASCjbgkGtcAKmb6KMNWnFn/detail.html"
+  },
+  {
+    "title": "文档多模态大模型算法实习生",
+    "company": "上海人工智能实验室",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "计算机视觉",
+      "自然语言处理",
+      "多模态",
+      "机器学习"
+    ],
+    "requirements": "硕士及以上学历，博士优先；专业需为计算机视觉、自然语言处理、多模态、机器学习等相关领域",
+    "source": "上海人工智能实验室",
+    "job_url": "https://www.shlab.org.cn/joinus/detail/7473791630677739830?mode=campus"
+  },
+  {
+    "title": "大模型数据实习生",
+    "company": "上海智元新创技术有限公司",
+    "location": "上海",
+    "salary": "面议",
+    "tech_tags": [
+      "大模型",
+      "RL",
+      "CV",
+      "AIGC",
+      "机器学习",
+      "渲染生成"
+    ],
+    "requirements": "在计算机视觉、多模态、AIGC、机器学习、渲染生成等一个或多个领域有较深入的研究者",
+    "source": "https://agirobot.jobs.feishu.cn/internrecruitment/m/position/detail/7524214332177320218",
+    "job_url": "https://agirobot.jobs.feishu.cn/internrecruitment/m/position/detail/7524214332177320218"
+  },
+  {
+    "title": "机器人-AI算法工程师（机器视觉-实习）",
+    "company": "海康威视",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "计算机视觉",
+      "图像处理",
+      "机器学习",
+      "CNN",
+      "RNN"
+    ],
+    "requirements": "硕士及以上学历，计算机视觉，图像处理，机器学习以及模式识别等相关专业",
+    "source": "https://talent.hikvision.com/home/socity/position?postId=833F537DB31417FA9A2075E97EFDE482",
+    "job_url": "https://talent.hikvision.com/home/socity/position?postId=833F537DB31417FA9A2075E97EFDE482"
+  },
+  {
+    "title": "探险 AI 大模型最前沿｜OpenBMB 招募实习生",
+    "company": "OpenBMB",
+    "location": "",
+    "salary": "面议",
+    "tech_tags": [
+      "多模态学习",
+      "机器学习",
+      "计算机视觉",
+      "预训练",
+      "文生图模型",
+      "大规模预训练模型"
+    ],
+    "requirements": "1年以上相关工作经验，熟练使用Python和Pytorch，对计算机视觉、预训练、文生图模型有深度理解",
+    "source": "知乎",
+    "job_url": "https://zhuanlan.zhihu.com/p/621187736"
+  }
+]
